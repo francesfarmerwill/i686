@@ -1,2 +1,1 @@
-# i686
-;)
+# Repo name reserved for later.
